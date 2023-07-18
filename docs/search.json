@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Ness of Brodgar",
     "section": "",
-    "text": "SCRP Summer Internship 2022: An Introduction\n\n\nNess of Brodgar, Neogithic archeology site in Orkney Scotland. The introduction to everything else.\n\n\n\n\nresearch\n\n\nXRF\n\n\n2022\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2022\n\n\nRebecca Barbanell\n\n\n\n\n\n\n  \n\n\n\n\nSCRP Summer Internship 2022 : Data Management Method\n\n\nNess of Brodgar, Neogithic archeology site in Orkney Scotland. Creating a Standardization of a naming method for the XRF data input.\n\n\n\n\nresearch\n\n\nXRF\n\n\n2022\n\n\n\n\n\n\n\n\n\n\n\nOct 18, 2022\n\n\nRebecca Barbanell\n\n\n\n\n\n\nNo matching items"
+    "text": "Ness of Brodgar\n\n\nNeogythic archeological site in Orkney Scotland\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management : Data Engineering XRF Data\n\n\nat Ness of Brodgar, Neogithic archeology site in Orkney Scotland. Using Python to extract data from multiple folders.\n\n\n\n\npython\n\n\nexcel\n\n\ndata engineering\n\n\ndata management\n\n\nNOB\n\n\n2023\n\n\n\n\n\n\n\n\n\n\n\nMay 18, 2023\n\n\nRebecca Barbanell\n\n\n\n\n\n\n  \n\n\n\n\nSCRP Summer Internship 2022: An Introduction\n\n\nNess of Brodgar, Neogithic archeology site in Orkney Scotland. The introduction to everything else.\n\n\n\n\nresearch\n\n\nXRF\n\n\n2022\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2022\n\n\nRebecca Barbanell\n\n\n\n\n\n\n  \n\n\n\n\nSCRP Summer Internship 2022 : Standard Naming Method\n\n\nNess of Brodgar, Neogithic archeology site in Orkney Scotland. Creating a Standardization of a naming method for the XRF data input.\n\n\n\n\nresearch\n\n\nXRF\n\n\n2022\n\n\n\n\n\n\n\n\n\n\n\nOct 18, 2022\n\n\nRebecca Barbanell\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Summer_2022/index.html",
@@ -40,5 +40,19 @@
     "title": "SCRP Summer Internship 2022: An Introduction",
     "section": "Walked right into Archaeology",
     "text": "Walked right into Archaeology\nWhat I have learned about the Ness of Brodgar site is that archaeologists use a method called “phasing” to understand the layers they dig through and what they find in each layer. This site is unique because it shows that Neolithic people built new structures on top of older ones, sometimes using materials from the previous structures. There is somewhat a timeline of sorts: Most times the structures found closer to the surface are more recent, while those deeper down are older. We can consider that phasing is to be some sort of timeline in which the first structure appears in the beginning of the excavation would be a more recent rendition of the structure, then as the structures are dismantled and a new phase begins there is a structure underneath which would be consider an older structure the more you dig. What else that archaeologist must consider is the geophysics, strata of the soil, etc. to assumptions of “time” itself, but it mainly constitutes the proxy of other structures, either on the site, or other sites around Orkney beyond. Within each phase there is a context, a sample number, a square number (grid) That constitutes where XRF spectrometer samples are taken from, as well as small finds. Spatially, this can be confusing and doesn’t really make sense. This method of organization took a long time to comprehend to understand how archaeologist think and understand how they organize their information. This is important for the creation of a data base structure, personal standardization that can be translated easily to a global/ institutionalized format for multiple uses in different disciplines. In which I have gathered, is important for multi-disciplinary action if the historical information preservation."
+  },
+  {
+    "objectID": "posts/Dashboard_NoB/index.html",
+    "href": "posts/Dashboard_NoB/index.html",
+    "title": "Ness of Brodgar",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "posts/Data_Management/index.html",
+    "href": "posts/Data_Management/index.html",
+    "title": "Ness of Brodgar",
+    "section": "",
+    "text": "No matching items"
   }
 ]

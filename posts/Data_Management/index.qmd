@@ -1,0 +1,14 @@
+---
+title: "Data Management : Data Engineering XRF Data"
+subtitle: |
+        at Ness of Brodgar, Neogithic archeology site in Orkney Scotland. Using Python to extract data from multiple folders.
+author: "Rebecca Barbanell"
+date: "2023-5-18"
+categories: [python, excel, data engineering, data management, NOB, 2023]
+image: ""
+comments: 
+    utterances: 
+      repo: quarto-dev/quarto-web
+      theme: boxy-light
+      issue-term: title
+---
