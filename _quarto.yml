@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+  
+
+website:
+  title: "Willamette Master's in Data Science Capstone 2023"
+  reader-mode: true
+  page-navigation: true
+  favicon: "logow.png"
+ 
+ 
+  navbar:
+    logo: "logow.png"
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rebeccabarbanell/
+format:
+  html:
+    toc: true
+    toc-location: right
+    theme: 
+      light: Spacelab
+      dark: slate
+    category: true
+    page-layout: full
+    mainfont: system-ui
+    fontsize: 1.0 em
+    linestretch: 1.7
+    css: styles.css
+    code-fold: true
+    code-summary: "Code"
+    link-external-newwindow: true
+    highlight-style: eiffel
+
+
+

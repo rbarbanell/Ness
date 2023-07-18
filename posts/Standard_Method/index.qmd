@@ -1,0 +1,14 @@
+---
+title: "SCRP Summer Internship 2022 : Data Management Method"
+subtitle: |
+        Ness of Brodgar, Neogithic archeology site in Orkney Scotland. Creating a Standardization of a naming method for the XRF data input.
+author: "Rebecca Barbanell"
+date: "2022-10-18"
+categories: [research, XRF, 2022]
+image: "unnamed.jpg"
+comments: 
+    utterances: 
+      repo: quarto-dev/quarto-web
+      theme: boxy-light
+      issue-term: title
+---

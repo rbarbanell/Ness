@@ -1,0 +1,60 @@
+---
+title: "About Ness of Brodgar"
+image: NoB-interim.jpg
+about:
+  template: trestles
+  links:
+    - icon: facebook
+      text: Friends of Ness of Brodgar
+      href: https://www.facebook.com/FriendsNessBrodgar/
+    - icon: website
+      text: Website
+      href: https://www.nessofbrodgar.co.uk/
+    - icon: instagram 
+      text: Ness Instagram
+      href: https://www.instagram.com/nessofbrodgar/
+    - icon: donate
+      text: donate to the site!
+      href: https://www.nessofbrodgar.co.uk/donate/
+
+---
+The Ness of Brodgar is a prehistoric archaeological site located on an isthmus in Orkney's West Mainland, Scotland. It is a part of the Heart of Neolithic Orkney World Heritage Site. The name stems from Old Norse and roughly translates to the "headland of the bridge farm."
+
+The site is known for its extensive discoveries of Neolithic structures, pottery, bones, and stone tools. The Ness of Brodgar sits in a vast "cauldron" ringed by hills, presumably aligned naturally to the midwinter rising sun and midsummer sunset, making it ideal for viewing. The area is surrounded by numerous iconic prehistoric landmarks like the Ring of Brodgar and the Stones of Stenness.
+
+**Time Line: **
+
+| Date | 	Event |
+|-------|:-------|
+|c5000BC| 	Evidence of Mesolithic activity on the Ness.|
+|c3700BC| 	Earliest evidence of farming in Orkney.|
+|c3600BC| 	Neolithic Settlements at Knap of Howar, Braes of Ha’Breck; Wideford Hill, Smerquoy; Stonehall.|
+|c3500BC |	Carinated bowl sherd (Early Neolithic) under Structure Fourteen.|
+|c3300BC| 	Structure Five at Ness of Brodgar (in Trench J adjacent to the ‘Great Wall of Brodgar’).Early structures at Skara Brae.|
+|c3200BC| 	Barnhouse settlement in use. Early structures built at Ness of Brodgar (underneath buildings currently visible in Trench P).|
+|c3100BC |	Structures One, Eight, Twelve and Fourteen constructed/in use. Standing Stones of Stenness erected.|
+|c3000BC| 	Stones of Stenness in use.|
+|c2900BC| 	Primary use of piered buildings at the Ness finishes. Some remain a focus of activity, but on a less grand scale.Barnhouse settlement abandoned.Structure Eight at Barnhouse settlement site built.Structure Ten at Ness of Brodgar built.|
+|c2800BC| 	Structure Ten at Ness of Brodgar collapses and is rebuilt.Large piered structures at the Ness of Brodgar out of use. Infilled with midden and rubble and the site abandoned, except for Structure Ten.|
+|c2700BC| 	Maeshowe ditch dug. Before or after chamber?|
+|c2600BC| 	Ring of Brodgar ditch dug. Before or after stones raised?|
+|c2500BC| 	Structure Ten hearth at Ness of Brodgar reused briefly.|
+|c2450BC| 	Skara Brae abandoned.|
+|c2400BC| 	The remains of Structure Ten at the Ness of Brodgar were the focus of a massive feast. This saw the remains of at least 400 cattle placed in the passageway surrounding the building – marking the end of the Ness and the start of something new? Single sherd of early Bronze Age Beaker pottery and Bronze Age arrowhead found in the layers just above the bone deposit – the Neolithic in Orkney is drawing to a close.|
+|c700BC and AD200| 	Some time in the Iron Age, the huge midden mound to the south-east of the Ness of Brodgar main site was remodelled (now in Trench T). Not only was an Iron Age ditch cut into the mound, but a revetment wall, on the upslope side, was enhanced by a large bank, itself held at the rear by another revetment wall.|
+|Feb 1925| 	‘Brodgar Stone’ found while ploughing Ness of Brodgar site.|
+|Apr 2003| 	Notched stone and evidence of Structure One found while ploughing Ness of Brodgar site.|
+
+*  **from Ness of Brodgar website**
+
+
+
+## Ness of Brodgar is publicly funded
+
+The Ness of Brodgar excavation project relies heavily on public donations for its operation. Contrary to widespread belief, the project is not funded by business or sizeable government grants. In fact, public donations contribute to almost 80% of the project's funding, particularly during the summer dig season.
+
+The duration of the excavation season at the Ness of Brodgar is dictated by the availability of funding, not by factors like weather, personnel limitations, or site access.
+
+Fundraising is a continuous process due to the high costs associated with running an excavation of this magnitude. Despite the participation of volunteers and students from around the world and in-kind support, operating a dig season, including post-excavation activities, costs over £200,000 every year.
+
+For those interested in supporting the project, the website provides several ways to do so, including sponsorship programs, donations, or purchasing items from their online shop.
