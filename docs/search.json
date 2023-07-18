@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Ness of Brodgar",
+    "section": "",
+    "text": "The Ness of Brodgar is a prehistoric archaeological site located on an isthmus in Orkney’s West Mainland, Scotland. It is a part of the Heart of Neolithic Orkney World Heritage Site. The name stems from Old Norse and roughly translates to the “headland of the bridge farm.”\nThe site is known for its extensive discoveries of Neolithic structures, pottery, bones, and stone tools. The Ness of Brodgar sits in a vast “cauldron” ringed by hills, presumably aligned naturally to the midwinter rising sun and midsummer sunset, making it ideal for viewing. The area is surrounded by numerous iconic prehistoric landmarks like the Ring of Brodgar and the Stones of Stenness.\nTime Line:"
+  },
+  {
+    "objectID": "about.html#ness-of-brodgar-is-publicly-funded",
+    "href": "about.html#ness-of-brodgar-is-publicly-funded",
+    "title": "About Ness of Brodgar",
+    "section": "Ness of Brodgar is publicly funded",
+    "text": "Ness of Brodgar is publicly funded\nThe Ness of Brodgar excavation project relies heavily on public donations for its operation. Contrary to widespread belief, the project is not funded by business or sizeable government grants. In fact, public donations contribute to almost 80% of the project’s funding, particularly during the summer dig season.\nThe duration of the excavation season at the Ness of Brodgar is dictated by the availability of funding, not by factors like weather, personnel limitations, or site access.\nFundraising is a continuous process due to the high costs associated with running an excavation of this magnitude. Despite the participation of volunteers and students from around the world and in-kind support, operating a dig season, including post-excavation activities, costs over £200,000 every year.\nFor those interested in supporting the project, the website provides several ways to do so, including sponsorship programs, donations, or purchasing items from their online shop."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ness of Brodgar",
+    "section": "",
+    "text": "SCRP Summer Internship 2022: An Introduction\n\n\nNess of Brodgar, Neogithic archeology site in Orkney Scotland. The introduction to everything else.\n\n\n\n\nresearch\n\n\nXRF\n\n\n2022\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2022\n\n\nRebecca Barbanell\n\n\n\n\n\n\n  \n\n\n\n\nSCRP Summer Internship 2022 : Data Management Method\n\n\nNess of Brodgar, Neogithic archeology site in Orkney Scotland. Creating a Standardization of a naming method for the XRF data input.\n\n\n\n\nresearch\n\n\nXRF\n\n\n2022\n\n\n\n\n\n\n\n\n\n\n\nOct 18, 2022\n\n\nRebecca Barbanell\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Summer_2022/index.html",
+    "href": "posts/Summer_2022/index.html",
+    "title": "SCRP Summer Internship 2022: An Introduction",
+    "section": "",
+    "text": "In summer of 2022 I had the privilege of participating in a research project based at Ness of Brodgar , a well-known neolithic archaeological site in Orkney, Scotland. Under the guidance of my research adviser, Professor Scott Pike , research mentor, Professor Kita Smalley, and with the support of the Mary Stuart Rogers Scholar program. The primary goals where:\n\nstandardizing data management practices by tidy up previous data entries and to make sure they were consistent and cohesive throughout the years. As a result of obtaining this congruence, the data could be compatible with analysis software, allowing further research and interpretation.\nIn conjunction with the continuation of inputting data from the soil samples using the XRF spectrometer to measure geo-chemical elements within each sample.\n\n\n\n\nKristina McDonough and Rebecca Barbanell working on XRF soil samples."
+  },
+  {
+    "objectID": "posts/Summer_2022/index.html#step-right-into-the-data",
+    "href": "posts/Summer_2022/index.html#step-right-into-the-data",
+    "title": "SCRP Summer Internship 2022: An Introduction",
+    "section": "Step Right into the Data",
+    "text": "Step Right into the Data\nDiving into the previous years of data, the first discerning observation was that there are tons of folders. Why is this discerning? This is because computers with multiple paths to information make it difficult to retrieve all the information at once. It’s like having to go through several doors to get into your house. However, using files is a common way for humans to organize information; it is quite intuitive and simple to put information into files, files, files. You get the picture, right?\nNext, I needed to understand the data itself which was another crucial aspect of our research. I realized the importance of comprehending the archaeologists’ work and how they organized their excavation methods. This understanding was essential for us to contribute meaningfully to the project and support the stakeholders involved. Side note, I also love to learn. Being able to learn about archaeology in they way of data science is fascinating! I wanted to make sure that our actions did not complicate matters for the archaeologists. This insight has been very fascinating and has guided the method throughout the course of research."
+  },
+  {
+    "objectID": "posts/Summer_2022/index.html#walked-right-into-archaeology",
+    "href": "posts/Summer_2022/index.html#walked-right-into-archaeology",
+    "title": "SCRP Summer Internship 2022: An Introduction",
+    "section": "Walked right into Archaeology",
+    "text": "Walked right into Archaeology\nWhat I have learned about the Ness of Brodgar site is that archaeologists use a method called “phasing” to understand the layers they dig through and what they find in each layer. This site is unique because it shows that Neolithic people built new structures on top of older ones, sometimes using materials from the previous structures. There is somewhat a timeline of sorts: Most times the structures found closer to the surface are more recent, while those deeper down are older. We can consider that phasing is to be some sort of timeline in which the first structure appears in the beginning of the excavation would be a more recent rendition of the structure, then as the structures are dismantled and a new phase begins there is a structure underneath which would be consider an older structure the more you dig. What else that archaeologist must consider is the geophysics, strata of the soil, etc. to assumptions of “time” itself, but it mainly constitutes the proxy of other structures, either on the site, or other sites around Orkney beyond. Within each phase there is a context, a sample number, a square number (grid) That constitutes where XRF spectrometer samples are taken from, as well as small finds. Spatially, this can be confusing and doesn’t really make sense. This method of organization took a long time to comprehend to understand how archaeologist think and understand how they organize their information. This is important for the creation of a data base structure, personal standardization that can be translated easily to a global/ institutionalized format for multiple uses in different disciplines. In which I have gathered, is important for multi-disciplinary action if the historical information preservation."
+  }
+]
